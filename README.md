@@ -5,3 +5,6 @@
 
 ## 摄像头支持分辨率
 1280x720(16:9), 960x720(4:3)
+
+## 录制后的视频
+![效果图](https://github.com/a2824256/RecordScreen/blob/master/screenshot.jpeg){:height="100" width="100"}
